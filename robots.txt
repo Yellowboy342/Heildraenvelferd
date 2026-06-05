@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://heildraenvelferd.is/sitemap.xml
+Sitemap: https://yellowboy342.github.io/Heildraenvelferd/sitemap.xml
